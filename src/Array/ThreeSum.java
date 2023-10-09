@@ -1,3 +1,5 @@
+package Array;
+
 public class ThreeSum {
     private int [] arr = {7,-6,3,8,-1,8,-11};
     private int target = 0;
