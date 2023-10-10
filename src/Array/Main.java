@@ -24,5 +24,10 @@ public class Main {
         SmallestNo sm = new SmallestNo(N);
         sm.getSmallestNo();
 
+        //MajorityElement
+        System.out.println("\n Majority element:");
+        MajorityElement me = new MajorityElement();
+        System.out.print(me.getMajorityElement());
+
     }
 }
