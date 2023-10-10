@@ -29,5 +29,10 @@ public class Main {
         MajorityElement me = new MajorityElement();
         System.out.print(me.getMajorityElement());
 
+        //Rotateby90
+        System.out.println("\n\n Rotate by 90:");
+        RotateBy90 r = new RotateBy90();
+        r.rotateBy90();
+
     }
 }

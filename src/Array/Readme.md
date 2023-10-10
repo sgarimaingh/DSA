@@ -14,3 +14,23 @@ Example:
         I/P = 1000
         O/P = 5558
 ```
+
+### 4. Majority Element (having N/2 frequency)
+Given an array of size N, need to find the majority element such that it occurs more than N/2 times. there can be atmost 1 majority element.
+
+### 5. Rotate Square matrix by 90 degree
+Given a matrix of size N*N, rotate it by 90 degree.
+
+```
+Example:
+        I/P = {{1,2,3,4},
+               {5,6,7,8},
+               {9,10,11,12},
+               {13,14,15,16}}
+               
+        O/P = {{13,9,5,1},
+               {14,10,6,2},
+               {15,11,7,3},
+               {16,12,8,4}}
+```
+
