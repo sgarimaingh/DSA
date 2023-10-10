@@ -34,3 +34,15 @@ Example:
                {16,12,8,4}}
 ```
 
+### 6. Spiral Matrix
+Given a matrix of size M*N, print elements in spiral order.
+
+```
+Example:
+        I/P = {{1,2,3,4},
+               {5,6,7,8},
+               {9,10,11,12}}
+               
+        O/P  = {1,2,3,4,8,12,11,10,9,5,6,7}
+```
+

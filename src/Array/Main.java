@@ -24,7 +24,7 @@ public class Main {
         SmallestNo sm = new SmallestNo(N);
         sm.getSmallestNo();
 
-        //MajorityElement
+        //Majority Element
         System.out.println("\n Majority element:");
         MajorityElement me = new MajorityElement();
         System.out.print(me.getMajorityElement());
@@ -33,6 +33,11 @@ public class Main {
         System.out.println("\n\n Rotate by 90:");
         RotateBy90 r = new RotateBy90();
         r.rotateBy90();
+
+        //Spiral Matrix
+        System.out.println("\n\n Spiral Matrix:");
+        SpiralMatrix sp = new SpiralMatrix();
+        sp.spiralMatrix();
 
     }
 }
