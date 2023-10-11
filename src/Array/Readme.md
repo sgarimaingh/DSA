@@ -1,4 +1,4 @@
-## Array DSA Problems 
+## Array Problems 
 
 ### 1. Two sum Problem
 Given an array and a target, find 2 numbers whose sum is equal to target. Array has one unique solution.
@@ -46,3 +46,10 @@ Example:
         O/P  = {1,2,3,4,8,12,11,10,9,5,6,7}
 ```
 
+### 7. Four sum problem
+Given an array and a target, find quadruplets whose sum is equal to target. Do not repeat.
+eg: [1,2 3,4] is same as [3,1,2,4]
+
+
+### 6. Spiral Matrix II
+Given an integer A, generate a square matrix filled with elements from 1 to A^2 in spiral order and return the generated square matrix.
