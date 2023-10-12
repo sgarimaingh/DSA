@@ -13,6 +13,11 @@ public class Main {
         SearchInSortedRotatedArray s = new SearchInSortedRotatedArray();
         s.getIndex();
 
+        //search in sorted 2d matrix
+        System.out.println("\nsearch in sorted 2d matrix: ");
+        SearchInSorted2dMatrix sm = new SearchInSorted2dMatrix();
+        System.out.print(sm.getTarget());
+
 
     }
 }
