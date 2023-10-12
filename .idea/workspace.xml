@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c782940-a0f5-4b9d-83b5-4bb0cfd0befd" name="Changes" comment="moved to array package">
-      <change afterPath="$PROJECT_DIR$/src/Array/FourSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/SpiralMatrixII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_Search/FirstAndLastIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_Search/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_Search/SearchInSortedRotatedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Binary_Search/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Binary_Search" />
       <recent name="$PROJECT_DIR$/src/Array" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
