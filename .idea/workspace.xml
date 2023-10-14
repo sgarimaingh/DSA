@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c782940-a0f5-4b9d-83b5-4bb0cfd0befd" name="Changes" comment="moved to array package">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/Sort01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Sort012.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +61,9 @@
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Array" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Sorting" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

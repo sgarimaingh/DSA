@@ -12,6 +12,11 @@ public class Main {
         Sort01 sort01 = new Sort01();
         sort01.sort();
 
+        //Sort 0 1 2 array
+        System.out.println("\nSorted 0 1 2 array: ");
+        Sort012 sort012 = new Sort012();
+        sort012.sort012();
+
 
     }
 }
