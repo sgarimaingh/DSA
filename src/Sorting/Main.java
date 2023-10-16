@@ -17,6 +17,16 @@ public class Main {
         Sort012 sort012 = new Sort012();
         sort012.sort012();
 
+        // counting sort
+        System.out.println("\n Count sort:");
+        CountSort cs = new CountSort();
+        cs.countSort();
+
+        // radix sort
+        System.out.println("\n Radix sort:");
+        RadixSort rs = new RadixSort();
+        rs.radixSort();
+
 
     }
 }
