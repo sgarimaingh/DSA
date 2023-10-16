@@ -32,6 +32,11 @@ public class Main {
         Merge2SortedArrays ms = new Merge2SortedArrays();
         ms.merge();
 
+        //merge sort
+        System.out.println("\n merge sort: ");
+        MergeSort m = new MergeSort();
+        m.getSortedArray();
+
 
     }
 }
