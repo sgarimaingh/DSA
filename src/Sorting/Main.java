@@ -27,6 +27,11 @@ public class Main {
         RadixSort rs = new RadixSort();
         rs.radixSort();
 
+        // merge 2 sorted arrays
+        System.out.println("\n merge 2 sorted arrays: ");
+        Merge2SortedArrays ms = new Merge2SortedArrays();
+        ms.merge();
+
 
     }
 }
