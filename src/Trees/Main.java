@@ -12,6 +12,11 @@ public class Main {
         System.out.println();
         ZigZagLevelOrderTraversal.printZigZagOrder();
 
+        // construct tree from pre and inorder traversal
+        System.out.println("\nInorder traversal of constructed binary tree from pre and inorder traversal:");
+        BinaryTreeConstructionFromOreAndInorder b = new BinaryTreeConstructionFromOreAndInorder();
+        b.run();
+
 
 
 
