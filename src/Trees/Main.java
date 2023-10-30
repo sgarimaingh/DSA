@@ -17,6 +17,11 @@ public class Main {
         BinaryTreeConstructionFromOreAndInorder b = new BinaryTreeConstructionFromOreAndInorder();
         b.run();
 
+        // print k level down nodes
+        System.out.println("\nK-level nodes from target:");
+        KLevelDown k = new KLevelDown();
+        k.printKLevelDownNodes();
+
 
 
 
