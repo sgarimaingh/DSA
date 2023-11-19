@@ -13,5 +13,9 @@ public class Main {
         LCS l = new LCS();
         System.out.println("Maximum length of LCS is: " + l.getMaxLength());
 
+        // Subset Sum
+        SubsetSum s = new SubsetSum();
+        System.out.println("Is Subset present with given sum: " + s.isSubsetPresent());
+
     }
 }
