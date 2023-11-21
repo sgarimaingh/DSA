@@ -17,5 +17,13 @@ public class Main {
         SubsetSum s = new SubsetSum();
         System.out.println("Is Subset present with given sum: " + s.isSubsetPresent());
 
+        // Minimum edit distance
+        MinimumEditDistance m = new MinimumEditDistance();
+        System.out.println("Minimum operations needed are: " + m.getMinOperations());
+
+        // Minimum coins
+       CoinChanging c = new CoinChanging();
+        System.out.println("Minimum coins needed are: " + c.getMinCoins());
+
     }
 }
