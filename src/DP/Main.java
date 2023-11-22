@@ -22,8 +22,17 @@ public class Main {
         System.out.println("Minimum operations needed are: " + m.getMinOperations());
 
         // Minimum coins
-       CoinChanging c = new CoinChanging();
+        CoinChanging c = new CoinChanging();
         System.out.println("Minimum coins needed are: " + c.getMinCoins());
+
+        // MCM
+        MCM mc = new MCM();
+        System.out.println("Minimum cost for mcm is: " + mc.getMinCost());
+
+        // Rod cutting
+        CuttingRod cr = new CuttingRod();
+        System.out.println("Maximum profit is : " + cr.getMaxProfit());
+
 
     }
 }
