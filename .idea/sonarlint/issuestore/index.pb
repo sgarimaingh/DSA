@@ -53,7 +53,15 @@ X
 (src/Trees/ZigZagLevelOrderTraversal.java,3/4/34040aedc58084f851fe6264182bdf6128e61743
 I
 src/Trees/KLevelDown.java,b/c/bc3188f5b9c01dfd25aadb20a9cf6af68ec5d647
-C
-src/Trees/Main.java,1/f/1f88f7f3dcfd3836e3f46c0313ac37807dc4e42e
 f
 6src/Trees/BinaryTreeConstructionFromOreAndInorder.java,a/3/a3e9621784503b49ff192f0074496d1e5008fadb
+E
+src/DP/SubsetSum.java,b/9/b975ff6ec3e2a1bc3a01371eaa7f69f96f31d242
+?
+src/DP/LCS.java,2/9/298e664241ad40ca65afde9f897b105212381bdc
+O
+src/DP/MinimumEditDistance.java,b/7/b76041a2bf511493f9e024f6170683b9716c8332
+H
+src/DP/CoinChanging.java,2/c/2c158aecc8669a731526d184b77ef82a11cfe0b4
+?
+src/DP/MCM.java,7/b/7b1d65b8a86fdc7a10111f3b5c104124e9b6df6d
