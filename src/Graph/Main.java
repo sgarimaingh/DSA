@@ -30,6 +30,11 @@ public class Main {
         DFS d = new DFS();
         d.DFS(0,graph);
 
+        //topological sort
+        System.out.println("Sorted edges:");
+        TopologicalSort t = new TopologicalSort();
+        t.sort(graph);
+
 
     }
 }
