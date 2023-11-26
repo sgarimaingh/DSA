@@ -21,8 +21,14 @@ public class Main {
         graph.addEdge(7, 8);
 
         //BFS
+        System.out.println("BFS:");
         BFS b = new BFS();
-        b.BFS(1,graph);
+        b.BFS(0,graph);
+
+        //DFS
+        System.out.println("DFS:");
+        DFS d = new DFS();
+        d.DFS(0,graph);
 
 
     }
