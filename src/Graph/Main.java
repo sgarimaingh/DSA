@@ -1,6 +1,9 @@
 package Graph;
 
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -102,7 +105,29 @@ public class Main {
         BellmanFord bf = new BellmanFord();
         bf.bellmanFord(graph1, 0);
 
+        // prim
+        System.out.println("MST using Prim algo:");
+        Prim p = new Prim();
+        p.mst(g,0);
 
+        //Kruskal
+        int v = 4;
+        List<Kruskal.Edge> graphEdges = new ArrayList<>(
+                List.of(new Kruskal.Edge(0, 1, 10), new Kruskal.Edge(0, 2, 6),
+                        new Kruskal.Edge(0, 3, 5), new Kruskal.Edge(1, 3, 15),
+                        new Kruskal.Edge(2, 3, 4)));
+
+        Kruskal k = new Kruskal();
+        k.kruskal(graphEdges,v);
+        
+        
+        //FLoyd-warshall
+        int gr[][] = { { 0, 5, 99999, 10 },
+                { 99999, 0, 3, 99999 },
+                { 99999, 99999, 0, 1 },
+                { 99999, 99999, 99999, 0 } };
+        FW fw = new FW();
+        fw.fw(gr);
 
     }
 }
