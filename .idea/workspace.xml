@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c782940-a0f5-4b9d-83b5-4bb0cfd0befd" name="Changes" comment="moved to array package">
-      <change afterPath="$PROJECT_DIR$/src/Graph/FW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/Kruskal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Graph/Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/StudentWithHighestAvgScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/TrappingRainWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/LongestPalindromicSubSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/CoinChanging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/CoinChanging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Graph/Prim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graph/Prim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Trees/KLevelDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Trees/KLevelDown.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

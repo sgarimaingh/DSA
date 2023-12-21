@@ -49,5 +49,16 @@ public class Main {
         SpiralMatrixII sp2 = new SpiralMatrixII();
         sp2.getSpiralMatrix();
 
+        // Student with highest average score
+        System.out.println("\n\n Student name: ");
+        StudentWithHighestAvgScore sa = new StudentWithHighestAvgScore();
+        sa.getStudent();
+
+
+        // maximum trapped rain water
+        TrappingRainWater tr = new TrappingRainWater();
+        System.out.println("\n\n Maximum trapped rain water: " +  tr.getWater());
+
+
     }
 }

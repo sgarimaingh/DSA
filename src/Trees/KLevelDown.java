@@ -35,13 +35,10 @@ class KLevelDown {
 
     private static void KLevelDown(Node root,int k){
         if(root==null) return;
-        System.out.println(k);
-        System.out.println(root.data);
         if(k==0) {
             System.out.print(root.data + " ");
         }
         KLevelDown(root.left,k-1);
-        System.out.println("DSFg");
         KLevelDown(root.right,k-1);
     }
 }

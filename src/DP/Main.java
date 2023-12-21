@@ -34,5 +34,10 @@ public class Main {
         System.out.println("Maximum profit is : " + cr.getMaxProfit());
 
 
+        // LPS
+        LongestPalindromicSubSequence lps = new LongestPalindromicSubSequence();
+        System.out.println("Maximum length of LPS is: " + lps.getLength());
+
+
     }
 }

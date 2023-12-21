@@ -8,12 +8,7 @@ import java.util.PriorityQueue;
 public class Prim {
 
     void mst(WeightedGraph g, int src){
-        PriorityQueue<WeightedGraph.Pair> q = new PriorityQueue<>(g.V, new Comparator<WeightedGraph.Pair>() {
-            public int compare(WeightedGraph.Pair a, WeightedGraph.Pair b)
-            {
-                return a.second - b.second;
-            }
-        });
+        PriorityQueue<WeightedGraph.Pair> q = new PriorityQueue<>(g.V, Comparator.comparingInt(a -> a.second));
         boolean [] visited = new boolean[g.V];
         int key[] = new int[g.V];
         int[] parent = new int[g.V];
