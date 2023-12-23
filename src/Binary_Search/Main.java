@@ -18,6 +18,10 @@ public class Main {
         SearchInSorted2dMatrix sm = new SearchInSorted2dMatrix();
         System.out.print(sm.getTarget());
 
+        // median of 2 sorted arrays
+        MedianOf2SortedArrays m = new MedianOf2SortedArrays();
+        System.out.println("\nMedian of 2 sorted arrays: "+ m.result());
+
 
     }
 }

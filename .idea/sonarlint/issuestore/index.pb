@@ -1,8 +1,6 @@
 
 C
 src/Array/Readme.md,c/2/c22bc99103649fb39752f93ea98db2bc5b98b9cd
-K
-src/Binary_Search/Main.java,c/5/c5f39458b3946ae6bc74faec99691a3955a4b0b1
 E
 src/Sorting/Main.java,e/c/ece0c742ffaab0955ddbd19b058df41c8318cbe9
 E
@@ -71,3 +69,23 @@ C
 src/Graph/Main.java,9/b/9b022e0def2e35d9a4c2b48e28c541f7cfa55e0e
 A
 src/Graph/FW.java,3/1/3130ed233ba9eda82609ec1553d8e277728ff456
+X
+(src/Binary_Search/FirstAndLastIndex.java,0/c/0cd015f9a9007dbef675201020619e1921f1c7f2
+a
+1src/Binary_Search/SearchInSortedRotatedArray.java,e/b/eb6c43a9e3ec26989ab021a20aa5d030bd333c01
+]
+-src/Binary_Search/SearchInSorted2dMatrix.java,d/1/d1de6f8abbc3dfa031378a91d00cde53ee0d3b7b
+L
+src/Graph/WeightedGraph.java,4/c/4c27bb2602ab4cea893cb4f3258d58f65febc749
+J
+src/Sorting/MergeSort.java,e/d/ed7208df1712975efff4d62fc09620f6e527122b
+?
+src/DP/MCM.java,7/b/7b1d65b8a86fdc7a10111f3b5c104124e9b6df6d
+G
+src/Sorting/Sort01.java,c/b/cbd2a45e407b54120d6e88e46d0e04d0ca20de23
+K
+src/Binary_Search/readme.md,c/a/cac9d80cdda22da6623d0c5d4e2bf5701b55647b
+H
+src/DP/CoinChanging.java,2/c/2c158aecc8669a731526d184b77ef82a11cfe0b4
+C
+src/Array/Main.java,e/2/e29ff9d17488dc02d8ac92b4b943ef4b2caf4da1
