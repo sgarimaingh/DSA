@@ -13,8 +13,6 @@ E
 src/Array/TwoSum.java,6/0/60229c330e5b97ce9bbddc0b9b38954ac8963223
 I
 src/Array/SmallestNo.java,8/a/8aee6e98f91b924133c1f9286597340ee24cbba5
-N
-src/Array/MajorityElement.java,d/5/d5818b39763c08ed7fc4ea0410358b53877b6635
 I
 src/Array/RotateBy90.java,0/8/083edfa86b8e1947b945aa3e938a04b5e49dcc4c
 M
@@ -87,5 +85,19 @@ G
 src/Sorting/Sort01.java,c/b/cbd2a45e407b54120d6e88e46d0e04d0ca20de23
 K
 src/Binary_Search/readme.md,c/a/cac9d80cdda22da6623d0c5d4e2bf5701b55647b
-C
-src/Array/Main.java,e/2/e29ff9d17488dc02d8ac92b4b943ef4b2caf4da1
+P
+ src/Array/TrappingRainWater.java,c/a/ca2536d52804bde6f108f51580837f51a2e510eb
+Y
+)src/DP/LongestPalindromicSubSequence.java,d/9/d927ad1ecc9e637ec4bf5c4eed12ec639adaafad
+Y
+)src/Array/StudentWithHighestAvgScore.java,f/6/f62c253b06cf516b6faf909ba5816035124b90dc
+?
+src/DP/LCS.java,2/9/298e664241ad40ca65afde9f897b105212381bdc
+@
+src/DP/Main.java,9/5/95fe9c79f8f46112f4746cc64c010f11bfd0dd13
+K
+src/Binary_Search/Main.java,c/5/c5f39458b3946ae6bc74faec99691a3955a4b0b1
+\
+,src/Binary_Search/MedianOf2SortedArrays.java,c/e/ce869aa70aa969332039df729739260e3ae68c15
+G
+src/Recursion/Main.java,a/5/a5485468540a580040af138b972ac52e3807ef60

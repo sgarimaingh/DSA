@@ -17,12 +17,12 @@ public class Main {
         threeSum.get3Sum();
 
         //SmallestNo
-        System.out.println("\nSmallest No ");
-        System.out.println("Enter N:");
-        Scanner s = new Scanner(System.in);
-        int N = s.nextInt();
-        SmallestNo sm = new SmallestNo(N);
-        sm.getSmallestNo();
+//        System.out.println("\nSmallest No ");
+//        System.out.println("Enter N:");
+//        Scanner s = new Scanner(System.in);
+//        int N = s.nextInt();
+//        SmallestNo sm = new SmallestNo(N);
+//        sm.getSmallestNo();
 
         //Majority Element
         System.out.println("\n Majority element:");
@@ -54,10 +54,13 @@ public class Main {
         StudentWithHighestAvgScore sa = new StudentWithHighestAvgScore();
         sa.getStudent();
 
-
         // maximum trapped rain water
         TrappingRainWater tr = new TrappingRainWater();
-        System.out.println("\n\n Maximum trapped rain water: " +  tr.getWater());
+        System.out.println("\n\nMaximum trapped rain water: " +  tr.getWater());
+
+        //missing element in array of 1...N integers
+        MissingElement mel = new MissingElement();
+        System.out.println("\nMissing element is: " + mel.getMissingElement());
 
 
     }
