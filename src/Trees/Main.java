@@ -22,6 +22,11 @@ public class Main {
         KLevelDown k = new KLevelDown();
         k.printKLevelDownNodes();
 
+        // kth smallest element in bst
+        System.out.println("\nKth smallest element is: ");
+        kthSmallestElement kse = new kthSmallestElement();
+        kse.bst();
+
 
     }
 }
